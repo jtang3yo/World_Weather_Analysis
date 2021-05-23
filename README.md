@@ -58,6 +58,3 @@
   * Get the data from each row and add it to the formatting template and store the data in a list, and add a marker layer for each city to the map.
     vacation_itinerary_markers![image](https://user-images.githubusercontent.com/82353749/119248582-1a740e00-bb60-11eb-8427-6931f6f0b9ca.png)
     WeatherPy_travel_map_markers.png![image](https://user-images.githubusercontent.com/82353749/119248704-e9480d80-bb60-11eb-9f77-a35034ddc114.png)
-
-
-
