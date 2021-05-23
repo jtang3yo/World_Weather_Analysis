@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
-config.py
+**/config.py
 API_practice.ipynb
 random_numbers.ipynb
+
+.DS_Store
 
 __pycache__/
 *.py[cod]
